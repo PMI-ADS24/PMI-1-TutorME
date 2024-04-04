@@ -18,7 +18,7 @@ TutorMe
 💡 PMI I
 
 
-🔗 url github: https://github.com/PMI-ADS24/PMI-1
+🔗 url github: [https://github.com/PMI-ADS24/PMI-1](https://github.com/PMI-ADS24/PMI-1-TutorME)
 
 
 🛬 url landpage:
