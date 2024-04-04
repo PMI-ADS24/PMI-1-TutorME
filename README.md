@@ -10,7 +10,7 @@ TutorMe
 🎁 Proposta de Valor: 
 
 
-🧑‍💻👩‍💻 Equipe: Diego André, Leonardo Giora, Pedro Esmeraldino, Pedro Botega, Isabel Pichini
+🧑‍💻👩‍💻 Equipe: Pedro Botega, Isabel Pichini, Diego André, Leonardo Giora, Pedro Esmeraldino
 
 
 🛠️ Recursos/Tecnologias Utilizados: Html, Css
