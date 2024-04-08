@@ -51,7 +51,7 @@ TutorMe
           acadêmica são incentivados.
 
 
-🧑‍💻👩‍💻 Equipe: Pedro Botega, Isabel Pichini, Diego André, Leonardo Giora, Pedro Esmeraldino
+🧑‍💻👩‍💻 Equipe: Pedro Botega, Isabel Pichini.
 
 
 🛠️ Recursos/Tecnologias Utilizados: Html, Css
